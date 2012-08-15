@@ -1,2 +1,2 @@
-rails-organizing-test-helpers
-=============================
+Organizing Test Helpers in Rails
+================================
